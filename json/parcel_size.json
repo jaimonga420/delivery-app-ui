@@ -1,0 +1,26 @@
+[
+    {
+        "size" : "Small",
+        "dimensions" : "Max 25Kg, 8 x 39 x 64 cm",
+        "description" : "Fits in an envelope",
+        "image" : "assets/images/envelope.png"
+    },
+    {
+        "size" : "Medium",
+        "dimensions" : "Max 25Kg, 19 x 38 x 64 cm",
+        "description" : "Fits in a shoe box",
+        "image" : "assets/images/smallbox.png"
+    },
+    {
+        "size" : "Large",
+        "dimensions" : "Max 25Kg, 41 x 38 x 64 cm",
+        "description" : "Fits in a cardboard box",
+        "image" : "assets/images/bigbox.png"
+    },
+    {
+        "size" : "Custom",
+        "dimensions" : "Max 25Kg or 300cm",
+        "description" : "Fits on a skid",
+        "image" : "assets/images/customparcel.png"
+    }
+]

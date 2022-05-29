@@ -1,0 +1,22 @@
+[
+    {
+        "trackingid" : 564856178689,
+        "status" : "In Transit",
+        "lastupdated" : "3 hours ago"
+    },
+    {
+        "trackingid" : 564856178321,
+        "status" : "Ready to dispatch",
+        "lastupdated" : "1 hour ago"
+    },
+    {
+        "trackingid" : 697856178956,
+        "status" : "Out of delivery",
+        "lastupdated" : "5 hours ago"
+    },
+    {
+        "trackingid" : 564865778956,
+        "status" : "Delivered",
+        "lastupdated" : "2 days ago"
+    }
+]

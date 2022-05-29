@@ -1,0 +1,13 @@
+[
+    {
+        "from" : "From door to parcel center",
+        "delivery" : "1-2 Days",
+        "image" : "assets/images/doortocenter.png"
+    },
+    {
+        "from" : "From door to door",
+        "delivery" : "2-3 Days",
+        "image" : "assets/images/doortodoor.png"
+    }
+
+]
